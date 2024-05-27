@@ -1,0 +1,10 @@
+@import "../../../assets/scss/variables";
+
+.orderCol {
+    border-left: 2px solid $transBlue;
+    border-right: 2px solid $transBlue;
+}
+
+.charts {
+    height: 214px !important;
+}
